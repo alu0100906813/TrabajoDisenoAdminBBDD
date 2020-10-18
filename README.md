@@ -1,9 +1,9 @@
 # **Presentación Supuesto Proyecto de Bases de Datos**:  Fundación Torriani
-### *Eduardo Suárez Ojeda*
+### *Eduardo Suárez Ojeda | alu0100896565*
 
-### *Francisco Javier Arocas Herrera*
+### *Francisco Javier Arocas Herrera | alu0100906813*
 
-### *Florentín Pérez González*
+### *Florentín Pérez González | alu0101100654*
 
 ---
 
